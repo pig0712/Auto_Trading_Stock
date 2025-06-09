@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "/workspaces/AI_Trading/BTC/.venv/bin/python",
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "material-icon-theme"
+}
